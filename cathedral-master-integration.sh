@@ -1,4 +1,4 @@
-#!/bin/bash
+Sh#!/ell Command: Install "code" command in PATH
 
 # 🏰 CATHEDRAL MASTER REPOSITORY INTEGRATION SCRIPT
 # Consolidates all Cathedral repositories for seamless deployment
