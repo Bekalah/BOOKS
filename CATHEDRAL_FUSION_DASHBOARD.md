@@ -54,6 +54,39 @@ All these files are cross-referenced and summarized here. Any update to one shou
 
 ---
 
+## 🧿 Distinguishing Art, Science, Fact, Archetype, Symbol in Codex & Liber Arcanae
+- Every entry in the codex or Liber Arcanae should be tagged with its type: **Art**, **Science**, **Real Fact**, **Archetype**, or **Symbol**.
+- For **science**: Record sources, experiments, and empirical data (e.g., geometry, numerology, pendulum studies, healing protocols).
+- For **art**: Document the creative process, inspiration, and visual/audio outcomes (e.g., Emma Kunz-inspired geometry, generative art, music).
+- For **real fact**: Cite historical, mathematical, or physical truths (e.g., ratios, dates, proven phenomena).
+- For **archetype**: Describe mythic roles, story patterns, and their psychological/spiritual meaning (e.g., tarot archetypes, hero’s journey).
+- For **symbol**: Explain the meaning, context, and use of each symbol (e.g., sigils, color codes, ritual objects).
+- Use metadata and tags in each dataset and UI to make these boundaries clear to both users and systems reading your codex.
+
+### Interactive Rooms & Experiences
+- **Pendulum Room**: Explore geometry, resonance, and healing through interactive pendulum experiments (inspired by Emma Kunz).
+- **Tarot Experience**: Learn and play with archetypes, symbols, and lessons through immersive tarot rooms and story engines.
+- **Real Magic Lessons**: Document and share authentic magical practices, rituals, and wisdom—clearly marked as real, not just art.
+- **Emma Kunz Geometry Lab**: Generate and study geometric art and healing patterns, blending science and art for real-world impact.
+
+### How to Record and Tag Experiences
+- Use clear metadata fields: `type`, `source`, `provenance`, `experiment`, `inspiration`, `lesson`, `symbolism`, etc.
+- UI should always show what is art, what is science, what is fact, what is archetype, and what is symbol—so users and systems never confuse them.
+- Encourage users to add their own tags, notes, and provenance to every entry and experience.
+
+---
+
+## 🧬 Immersive 3D Sacred Geometry & Modular Labs
+- Every arcana, archetype, or node can be visually and sonically linked to a unique 3D sacred geometry form (e.g., platonic solids, Tesla-inspired structures, Emma Kunz grids).
+- Fusion mechanics: Mix two archetypes (e.g., Moonchild + Metatron) to generate a new geometry, harmonic, or dynamic pattern—always with a real, interactive 3D visualization.
+- Modular Labs: Build creative labs where users can select, fuse, and remix arcana, geometry, harmonics, and dynamics. Each lab is a unique space for exploration, survival, and self-expression.
+- Harmonics & Dynamics: Integrate sound, vibration, and movement so every fusion has a real impact—use Tone.js, Three.js, and generative art/music engines.
+- Survival & Expression: The system is designed for anyone who needs to understand and play with dynamics (especially those who feel like scapegoats or outsiders). Creative play is a serious tool for survival and growth.
+- Inspiration: Take cues from Mission of Art, Phil Hine, Robert Anton Wilson, and Emma Kunz—make the system real, high-level, and deeply interesting for art/science fusion.
+- Always aim for the best: Modular labs, fusion engines, and immersive geometry should be beautiful, powerful, and ND-friendly—never smushed or flat.
+
+---
+
 ## 🔗 Interconnections & Fusion
 - All datasets and modules are cross-linked and accessible to every app
 - Node fusion: Mix and match settings, assets, and logic (A + B = D)
@@ -87,3 +120,7 @@ All these files are cross-referenced and summarized here. Any update to one shou
 - [SESSION_MEMORY_COMPLETE.md](cathedral/SESSION_MEMORY_COMPLETE.md)
 
 *All system memory, naming, architecture, error prevention, and session continuity are unified here. This ensures every part of the Cathedral ecosystem is always aware, connected, and up-to-date.*
+
+---
+
+*This dashboard is the living source of truth for your modular cathedral ecosystem. All projects, apps, and research types are organized for maximum creative play and fusion.*
